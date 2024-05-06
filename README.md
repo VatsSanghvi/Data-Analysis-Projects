@@ -1,4 +1,4 @@
-# Data Analysis Projects
+# <span style="color: #66CDAA; font-weight: bold;">Data Analysis Projects</span>
 
 This repository contains data analysis projects completed during my Business Analytics course at Conestoga College.
 
